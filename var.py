@@ -21,4 +21,3 @@ inp = input()
 
 print("your input:", inp)
 print(int(inp) + 10)
-
