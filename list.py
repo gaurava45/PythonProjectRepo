@@ -26,6 +26,14 @@ print(numbers)
 
 tu = (1, 2)   #tuple
 
+tup1 = (1)  #takes it as as int
+tup2 = (1,)  #need to give extra ',' to make it a tuple
+
+print(type(tup1))
+print(type(tup2))
+print("tup1 : " ,tup1)
+print("tup2 : " ,tup2)
+
 print(tu)
 
 # tu[1] = 5   tuple is immutble
