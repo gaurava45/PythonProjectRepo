@@ -10,3 +10,15 @@ if 2==2:
     print("equal")
     print("inside if")
 print("after if")
+
+if(True & True):
+    print("True")
+
+if(True | False):
+    print("True")
+
+if(True and True):
+    print("True")
+
+if(True or False):
+    print("True")
